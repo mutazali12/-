@@ -1,6 +1,9 @@
-# نظام إدارة المراسلات
+# نظام إدارة المراسلات الإدارية للشركات والمؤسسات الحكومية
 
-نظام متكامل لإدارة سجلات المراسلات الواردة والصادرة، مكتوب بلغة Python مع واجهة رسومية باستخدام Tkinter.
+![Banner](https://via.placeholder.com/1200x300?text=Administrative+Correspondence+Management+System)  
+*نظام متكامل لإدارة سجلات المراسلات الواردة والصادرة، مكتوب بلغة Python مع واجهة رسومية باستخدام Tkinter.*
+
+---
 
 ## المميزات
 
@@ -30,6 +33,8 @@
 - عرض وتنزيل المرفقات
 - إدارة مساحة التخزين
 
+---
+
 ## التثبيت
 
 ### المتطلبات الأساسية
@@ -39,3 +44,32 @@
 ### تثبيت المكتبات
 ```bash
 pip install -r requirements.txt
+```
+
+---
+
+## تحميل واختبار البرنامج
+يمكنك تقييم قدراتنا البرمجية من خلال تنزيل البرنامج واختباره بنفسك على نظام Windows. جرب الواجهة الرسومية، أداء النظام، وكفاءة إدارة المراسلات لترى الجودة مباشرة!
+
+[![تحميل البرنامج](https://img.shields.io/badge/تحميل_البرنامج-لنظام_Windows-blue?style=for-the-badge&logo=windows&logoColor=white)](https://drive.google.com/file/d/1lC8xwj34-pNElqw6kRIsalZeAI2aenMt/view?usp=drivesdk)
+
+---
+
+## الدعم والمساهمة
+إذا واجهت أي مشكلات أو لديك اقتراحات، قم بفتح issue في المستودع. مساهماتكم مرحب بها!
+
+---
+
+<footer>
+<div align="center">
+  <a href="https://www.facebook.com/mutaz.mudather">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://x.com/MutazMudather">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)">
+  </a>
+  <a href="https://wa.me/201122394912">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</div>
+</footer>
